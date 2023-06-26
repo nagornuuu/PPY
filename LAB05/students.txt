@@ -1,0 +1,3 @@
+s24918@pjwstk.edu.pl,  andrii,  nahornyi, 100,  5,  GRADED
+adamadamski@gmail.com, adam, adamski, 51, 3, GRADED
+test@gmail.com, lukasz, kwasniewicz, 85, 4.5, GRADED

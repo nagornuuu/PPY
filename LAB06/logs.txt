@@ -1,0 +1,7 @@
+Wydrukowano wszystkie dane studentow
+Wydrukowano wszystkie dane studentow
+Wydrukowano wszystkie dane studentow
+Dodano studenta z adresem email s24918@pjwstk.edu.pl, imie andrii, nazwisko nahornyi, punkty 100
+Wydrukowano wszystkie dane studentow
+Mail was sent to test2@gmail.com.
+Mail was sent to test2@gmail.com.
